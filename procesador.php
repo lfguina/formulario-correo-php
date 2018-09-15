@@ -41,9 +41,9 @@ if($error==""){
     $cuerpo.="Email: ".$email."\n";
     $cuerpo.="Mensaje: ".$mensaje."\n";
     //Direccion a enviar
-    $destinatario="lfguina2@gmail.com";
+    $destinatario="xxxdestinatarioxxx@gmail.com";
     $asunto="Nuevo mensaje formulario";
-    $cabeceras = "From: SoyElAdmin <lfguina@gmail.com>". "\r\n";
+    $cabeceras = "From: SoyElAdmin <xxCorreoAdminxxx@gmail.com>". "\r\n";
 
 
     //envio de correo
